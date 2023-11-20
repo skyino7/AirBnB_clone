@@ -15,3 +15,8 @@ article {
   border-radius: 5px;
   display: inline-block;
 }
+
+article h2 {
+  font-size: 30px;
+  margin-top: 15px;
+}
